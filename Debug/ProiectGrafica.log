@@ -1,0 +1,13 @@
+﻿  proiect-tetris.cpp
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(35,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(92,22): warning C4305: '-=': truncation from 'double' to 'float'
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(97,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(119,12): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(138,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(335,22): warning C4101: 'nrChannels': unreferenced local variable
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(493,12): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(538,12): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(583,12): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(628,12): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\ProiectGrafica\proiect-tetris.cpp(672,12): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+  ProiectGrafica.vcxproj -> D:\1imp\CursuriFMI\An3\Sem1\Grafica\ProiectGrafica\Debug\ProiectGrafica.exe

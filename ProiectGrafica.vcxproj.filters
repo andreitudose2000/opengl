@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Dependencies">
+      <UniqueIdentifier>{ffc12ac2-fb91-4c01-a8b8-010f256ef91a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="loadShaders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="proiect-tetris.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\glm\glm\gtx\transform.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="imageloader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SOIL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="loadShaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="proiect-tetris.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="05_02_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="05_02_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="06_03_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="06_03_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="06_04_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="06_04_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="04_03_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="04_03_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="domino_shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="06_02_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="06_02_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="domino_shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="10_01_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="10_01_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="10_02f_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="10_02f_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="10_02v_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="10_02v_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="09_01_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="09_01_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="09_03_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="09_03_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="11_01f_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="11_sfera_umbra.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="11_01v_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="11_01v_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="11_02_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="11_02_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="11_01f_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="tetris.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="08_01_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="08_01_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="08_02_Shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="08_02_Shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="tetris.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="domino.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="text_smiley_face.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
